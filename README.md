@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhijayRyan01/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AbhijayRyan01/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -15,4 +16,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AbhijayRyan01/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhijayRyan01/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 <!---LeetCode Topics End-->
