@@ -10,11 +10,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhijayRyan01/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhijayRyan01/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AbhijayRyan01/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhijayRyan01/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/AbhijayRyan01/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AbhijayRyan01/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhijayRyan01/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhijayRyan01/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhijayRyan01/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/AbhijayRyan01/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -37,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhijayRyan01/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhijayRyan01/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhijayRyan01/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/AbhijayRyan01/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
