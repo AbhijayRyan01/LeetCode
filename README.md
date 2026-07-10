@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AbhijayRyan01/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/AbhijayRyan01/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhijayRyan01/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhijayRyan01/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AbhijayRyan01/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AbhijayRyan01/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhijayRyan01/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Enumeration
@@ -49,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AbhijayRyan01/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhijayRyan01/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
