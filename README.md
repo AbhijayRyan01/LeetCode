@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/AbhijayRyan01/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhijayRyan01/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/AbhijayRyan01/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/AbhijayRyan01/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/AbhijayRyan01/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhijayRyan01/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AbhijayRyan01/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -122,4 +124,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhijayRyan01/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/AbhijayRyan01/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
