@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/AbhijayRyan01/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/AbhijayRyan01/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/AbhijayRyan01/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0213-house-robber-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/AbhijayRyan01/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/AbhijayRyan01/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/AbhijayRyan01/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/AbhijayRyan01/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/AbhijayRyan01/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0213-house-robber-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhijayRyan01/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/AbhijayRyan01/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
