@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/AbhijayRyan01/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/AbhijayRyan01/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhijayRyan01/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0130-surrounded-regions](https://github.com/AbhijayRyan01/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0189-rotate-array](https://github.com/AbhijayRyan01/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0213-house-robber-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/AbhijayRyan01/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/AbhijayRyan01/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/AbhijayRyan01/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0542-01-matrix](https://github.com/AbhijayRyan01/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/AbhijayRyan01/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/AbhijayRyan01/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/AbhijayRyan01/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/AbhijayRyan01/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhijayRyan01/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -104,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AbhijayRyan01/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0130-surrounded-regions](https://github.com/AbhijayRyan01/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/AbhijayRyan01/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/AbhijayRyan01/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/AbhijayRyan01/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -201,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/AbhijayRyan01/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/AbhijayRyan01/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/AbhijayRyan01/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/AbhijayRyan01/LeetCode/tree/main/0733-flood-fill/) | Easy |
