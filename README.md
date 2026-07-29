@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/AbhijayRyan01/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/AbhijayRyan01/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/AbhijayRyan01/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0542-01-matrix](https://github.com/AbhijayRyan01/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhijayRyan01/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0733-flood-fill](https://github.com/AbhijayRyan01/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/AbhijayRyan01/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/AbhijayRyan01/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0542-01-matrix](https://github.com/AbhijayRyan01/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/AbhijayRyan01/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/AbhijayRyan01/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/AbhijayRyan01/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AbhijayRyan01/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0542-01-matrix](https://github.com/AbhijayRyan01/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/AbhijayRyan01/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/AbhijayRyan01/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1260-shift-2d-grid](https://github.com/AbhijayRyan01/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -113,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/AbhijayRyan01/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhijayRyan01/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0213-house-robber-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
+| [0542-01-matrix](https://github.com/AbhijayRyan01/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/AbhijayRyan01/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhijayRyan01/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
