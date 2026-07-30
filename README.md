@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/AbhijayRyan01/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/AbhijayRyan01/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/AbhijayRyan01/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0542-01-matrix](https://github.com/AbhijayRyan01/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/AbhijayRyan01/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/AbhijayRyan01/LeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/AbhijayRyan01/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/AbhijayRyan01/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/AbhijayRyan01/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/AbhijayRyan01/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/AbhijayRyan01/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/AbhijayRyan01/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -223,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/AbhijayRyan01/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/AbhijayRyan01/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/AbhijayRyan01/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/AbhijayRyan01/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/AbhijayRyan01/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
