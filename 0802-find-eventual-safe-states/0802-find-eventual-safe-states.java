@@ -17,7 +17,7 @@ class Solution {
         }
 
         Queue<Integer> q = new LinkedList<>();
-        List<Integer> safeNodes = new LinkedList<>();
+        List<Integer> safeNodes = new ArrayList<>();
 
         for(int i=0; i<V; i++){
             if(inDegree[i]==0){
