@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/AbhijayRyan01/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhijayRyan01/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0733-flood-fill](https://github.com/AbhijayRyan01/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0877-stone-game](https://github.com/AbhijayRyan01/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0994-rotting-oranges](https://github.com/AbhijayRyan01/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/AbhijayRyan01/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1260-shift-2d-grid](https://github.com/AbhijayRyan01/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/AbhijayRyan01/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0542-01-matrix](https://github.com/AbhijayRyan01/LeetCode/tree/main/0542-01-matrix/) | Medium |
+| [0877-stone-game](https://github.com/AbhijayRyan01/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/AbhijayRyan01/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhijayRyan01/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/AbhijayRyan01/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/AbhijayRyan01/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhijayRyan01/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/AbhijayRyan01/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhijayRyan01/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbhijayRyan01/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhijayRyan01/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -288,4 +291,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/AbhijayRyan01/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/AbhijayRyan01/LeetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
