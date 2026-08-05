@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/AbhijayRyan01/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/AbhijayRyan01/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/AbhijayRyan01/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/AbhijayRyan01/LeetCode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0994-rotting-oranges](https://github.com/AbhijayRyan01/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/AbhijayRyan01/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/AbhijayRyan01/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/AbhijayRyan01/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0542-01-matrix](https://github.com/AbhijayRyan01/LeetCode/tree/main/0542-01-matrix/) | Medium |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/AbhijayRyan01/LeetCode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0877-stone-game](https://github.com/AbhijayRyan01/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/AbhijayRyan01/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1406-stone-game-iii](https://github.com/AbhijayRyan01/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/AbhijayRyan01/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/AbhijayRyan01/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/AbhijayRyan01/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/AbhijayRyan01/LeetCode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/AbhijayRyan01/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/AbhijayRyan01/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhijayRyan01/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -239,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/AbhijayRyan01/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/AbhijayRyan01/LeetCode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AbhijayRyan01/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -302,4 +306,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/AbhijayRyan01/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/AbhijayRyan01/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/AbhijayRyan01/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/AbhijayRyan01/LeetCode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 <!---LeetCode Topics End-->
