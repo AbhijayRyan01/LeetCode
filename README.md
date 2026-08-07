@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AbhijayRyan01/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbhijayRyan01/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0031-next-permutation](https://github.com/AbhijayRyan01/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/AbhijayRyan01/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/AbhijayRyan01/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbhijayRyan01/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0268-missing-number](https://github.com/AbhijayRyan01/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/AbhijayRyan01/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhijayRyan01/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -288,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbhijayRyan01/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/AbhijayRyan01/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
