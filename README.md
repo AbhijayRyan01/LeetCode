@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-path-with-minimum-effort](https://github.com/AbhijayRyan01/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhijayRyan01/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhijayRyan01/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AbhijayRyan01/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhijayRyan01/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhijayRyan01/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AbhijayRyan01/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/AbhijayRyan01/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/AbhijayRyan01/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhijayRyan01/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AbhijayRyan01/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbhijayRyan01/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbhijayRyan01/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -382,4 +384,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/AbhijayRyan01/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AbhijayRyan01/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AbhijayRyan01/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->
