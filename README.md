@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhijayRyan01/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AbhijayRyan01/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AbhijayRyan01/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhijayRyan01/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhijayRyan01/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhijayRyan01/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AbhijayRyan01/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/AbhijayRyan01/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/AbhijayRyan01/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhijayRyan01/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhijayRyan01/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhijayRyan01/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/AbhijayRyan01/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhijayRyan01/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/AbhijayRyan01/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbhijayRyan01/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhijayRyan01/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhijayRyan01/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AbhijayRyan01/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -301,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/AbhijayRyan01/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/AbhijayRyan01/LeetCode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/AbhijayRyan01/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhijayRyan01/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AbhijayRyan01/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -325,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhijayRyan01/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhijayRyan01/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhijayRyan01/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhijayRyan01/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -357,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhijayRyan01/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
