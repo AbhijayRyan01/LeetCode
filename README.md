@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/AbhijayRyan01/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0242-valid-anagram](https://github.com/AbhijayRyan01/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/AbhijayRyan01/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhijayRyan01/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AbhijayRyan01/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbhijayRyan01/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/AbhijayRyan01/LeetCode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0877-stone-game](https://github.com/AbhijayRyan01/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/AbhijayRyan01/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1406-stone-game-iii](https://github.com/AbhijayRyan01/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
