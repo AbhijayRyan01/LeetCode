@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/AbhijayRyan01/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/AbhijayRyan01/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhijayRyan01/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhijayRyan01/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/AbhijayRyan01/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/AbhijayRyan01/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1872-stone-game-viii](https://github.com/AbhijayRyan01/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/AbhijayRyan01/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/AbhijayRyan01/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/AbhijayRyan01/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhijayRyan01/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhijayRyan01/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AbhijayRyan01/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AbhijayRyan01/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0268-missing-number](https://github.com/AbhijayRyan01/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhijayRyan01/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/AbhijayRyan01/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhijayRyan01/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhijayRyan01/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -217,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1143-longest-common-subsequence](https://github.com/AbhijayRyan01/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AbhijayRyan01/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1406-stone-game-iii](https://github.com/AbhijayRyan01/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhijayRyan01/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/AbhijayRyan01/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/AbhijayRyan01/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbhijayRyan01/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -489,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhijayRyan01/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AbhijayRyan01/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AbhijayRyan01/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Linked List
