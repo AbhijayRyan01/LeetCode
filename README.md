@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/AbhijayRyan01/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/AbhijayRyan01/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhijayRyan01/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhijayRyan01/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhijayRyan01/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AbhijayRyan01/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/AbhijayRyan01/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/AbhijayRyan01/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhijayRyan01/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhijayRyan01/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AbhijayRyan01/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhijayRyan01/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/AbhijayRyan01/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/AbhijayRyan01/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhijayRyan01/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhijayRyan01/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AbhijayRyan01/LeetCode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhijayRyan01/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -348,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/AbhijayRyan01/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/AbhijayRyan01/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhijayRyan01/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2029-stone-game-ix](https://github.com/AbhijayRyan01/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AbhijayRyan01/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhijayRyan01/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
