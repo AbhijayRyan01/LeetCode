@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/AbhijayRyan01/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/AbhijayRyan01/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/AbhijayRyan01/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/AbhijayRyan01/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0126-word-ladder-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/AbhijayRyan01/LeetCode/tree/main/0127-word-ladder/) | Hard |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/AbhijayRyan01/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/AbhijayRyan01/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/AbhijayRyan01/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/AbhijayRyan01/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
@@ -459,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/AbhijayRyan01/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0126-word-ladder-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/0126-word-ladder-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -564,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AbhijayRyan01/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/AbhijayRyan01/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AbhijayRyan01/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbhijayRyan01/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhijayRyan01/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
