@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AbhijayRyan01/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0012-integer-to-roman](https://github.com/AbhijayRyan01/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AbhijayRyan01/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0126-word-ladder-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/AbhijayRyan01/LeetCode/tree/main/0127-word-ladder/) | Hard |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/AbhijayRyan01/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
+| [0012-integer-to-roman](https://github.com/AbhijayRyan01/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/AbhijayRyan01/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/AbhijayRyan01/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/AbhijayRyan01/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/AbhijayRyan01/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0066-plus-one](https://github.com/AbhijayRyan01/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/AbhijayRyan01/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/AbhijayRyan01/LeetCode/tree/main/0189-rotate-array/) | Medium |
