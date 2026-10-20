@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhijayRyan01/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhijayRyan01/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/AbhijayRyan01/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/AbhijayRyan01/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AbhijayRyan01/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AbhijayRyan01/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+| [3886-sum-of-sortable-integers](https://github.com/AbhijayRyan01/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AbhijayRyan01/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3731-find-missing-elements](https://github.com/AbhijayRyan01/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhijayRyan01/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/AbhijayRyan01/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -384,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhijayRyan01/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhijayRyan01/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AbhijayRyan01/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/AbhijayRyan01/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
