@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AbhijayRyan01/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AbhijayRyan01/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbhijayRyan01/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AbhijayRyan01/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/AbhijayRyan01/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AbhijayRyan01/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AbhijayRyan01/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhijayRyan01/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/AbhijayRyan01/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbhijayRyan01/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AbhijayRyan01/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhijayRyan01/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AbhijayRyan01/LeetCode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhijayRyan01/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AbhijayRyan01/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AbhijayRyan01/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhijayRyan01/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbhijayRyan01/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AbhijayRyan01/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -468,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhijayRyan01/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/AbhijayRyan01/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/AbhijayRyan01/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AbhijayRyan01/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
